@@ -1,0 +1,177 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    text-decoration: none;
+}
+
+body{
+    background: #f6f6f9;
+}
+
+.box{
+    margin-left: 10px;
+}
+
+.nomealuno{
+    display: flex;
+    background-color: black;
+    padding: 10px;
+    border: 2px solid #eee;
+    border-radius: 5px;
+    margin-top: 10px;
+    width: 40%;
+    font-weight: bold;
+    color: #fff;
+}
+
+table{
+    background-color: #fff;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 99.5%;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
+    border-collapse: collapse;
+    border-spacing: 0;
+    border: 1px solid rgb(143, 143, 143);
+}
+
+table tr{
+    width: 100%;
+}
+table td{
+    background-color: #fff;
+    border: 0;
+    padding: 10px;
+    text-align: center;
+    width: 5%;
+    color: black;
+}
+
+.scrollable-table {
+    display: grid;
+    max-height: 650px;
+    overflow: auto;
+    overflow-x: hidden;
+}
+
+.title{
+    background-color: black;
+    color: #fff;
+    padding: 10px;
+}
+
+.titleYear{
+    background-color: black;
+    color: #fff;
+    padding: 10px;
+    border-bottom: 1px solid #eee;
+}
+
+.titleYearTr{
+    background-color: #fff;
+}
+
+.reprovacaoTr{
+    align-items: start;
+    justify-content: start;
+    border-top: 1px solid black;
+    margin-top: 20px;
+    background-color: #fff;
+    width: 100%;
+}
+
+.reprovacaoTd{
+    background-color: #fff;
+    text-align: start;
+    font-weight: bold;
+    font-size: 15px;
+    color: black;
+    border-top: 1px solid black;
+}
+
+#pdfGenerate{
+    background-color: #64948c;
+    color: #fff;
+    padding: 10px;
+    width: 30%;
+    border-radius: 5px;
+    font-size: 18px;
+    border: 0;
+    margin-bottom: 10px;
+}
+
+#pdfGenerate:hover{
+    background-color: #eee;
+    cursor: pointer;
+    color: black;
+    transition-duration: 0.2s;
+}
+
+header{
+
+    width: 100%;
+    height: 80px;
+    background: #164a3d;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 100px;
+}
+
+.logo{
+
+    font-size: 28px;
+    font-weight: bold;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 5px;
+}
+
+.nav-bar-elements{
+
+    display: flex;
+    flex-direction: right;
+    justify-content: flex-start;
+}
+
+.nav-bar ul{
+
+    display: flex;
+}
+
+.nav-bar ul li a{
+
+    display: block;
+    color: #fff;
+    font-size: 20px;
+    padding: 10px 25px;
+    border-radius: 50px;
+    transition: 0.2s;
+    margin: 0 5px;
+}
+
+.nav-bar ul li a:hover{
+
+    color: #11101b;
+    background: #eee;
+}
+
+#botaoVoltar{
+    background-color: inherit;
+    padding: 10px;
+    color: #fff;
+    border-radius: 15px;
+    border: 0;
+    font-size: 20px;
+}
+
+#botaoVoltar:hover{
+    background-color: #fff;
+    color: black;
+    transition-duration: 0.2s;
+    cursor: pointer;
+}
