@@ -6,8 +6,6 @@
 
 - **[🇧🇷 Versão Brasil _você está aqui_](https://github.com/Karlos-Eduardo-Mrqs/Bulletin_Project/blob/main/README-BR.md)**
 
----
-
 ## 📑 Sumário
 
 - [Autumn 🍂](#autumn-)
