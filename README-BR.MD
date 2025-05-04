@@ -1,24 +1,31 @@
-# Autumn Versão Br 🍂
+# Autumn 🍂
 
 ## 🌐 Idiomas Disponíveis
 
 - **[🇺🇸 Versão em Inglês](https://github.com/Karlos-Eduardo-Mrqs/Bulletin_Project/blob/main/README.md)**
-- **[🇧🇷 Versão Brasil _você está aqui_]()**
+
+- **[🇧🇷 Versão Brasil _você está aqui_](https://github.com/Karlos-Eduardo-Mrqs/Bulletin_Project/blob/main/README-BR.md)**
+
+---
 
 ## 📑 Sumário
 
-- [Autumn Versão Br 🍂](#autumn-versão-br-)
+- [Autumn 🍂](#autumn-)
   - [🌐 Idiomas Disponíveis](#-idiomas-disponíveis)
   - [📑 Sumário](#-sumário)
-- [🌟 Sobre o Projeto Autumn](#-sobre-o-projeto-autumn)
+  - [🌟 Sobre o Projeto Autumn](#-sobre-o-projeto-autumn)
   - [💡 Exemplo de Uso](#-exemplo-de-uso)
   - [💻 Tecnologias Utilizadas](#-tecnologias-utilizadas)
   - [🚀 Pré-requisitos](#-pré-requisitos)
   - [Licença](#licença)
 
-# 🌟 Sobre o Projeto Autumn
+---
+
+## 🌟 Sobre o Projeto Autumn
 
 Autumn é um sistema de boletim escolar desenvolvido com o objetivo de facilitar o gerenciamento de notas, faltas e desempenho dos alunos. O sistema permite que professores, coordenadores e administradores tenham acesso rápido e seguro aos dados acadêmicos, promovendo transparência e eficiência no processo educacional.
+
+---
 
 ## 💡 Exemplo de Uso
 
@@ -26,12 +33,16 @@ Autumn é um sistema de boletim escolar desenvolvido com o objetivo de facilitar
 2. O coordenador gera um relatório consolidado das médias da turma.
 3. Os pais consultam o boletim online para acompanhar o desempenho do aluno.
 
+---
+
 ## 💻 Tecnologias Utilizadas
 
 - **Front-End**: HTML, CSS e JavaScript para a interface do usuário.
 - **Back-End**: PHP para processamento de dados.
 - **Banco de Dados**: MySQL para armazenamento de informações acadêmicas.
 - **Outras Ferramentas**: AJAX para comunicação assíncrona, Bootstrap/Bulma para design responsivo.
+
+---
 
 ## 🚀 Pré-requisitos
 
@@ -82,5 +93,3 @@ git clone https://github.com/seu-repositorio/autumn.git
 Este projeto está licenciado sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) para obter mais detalhes.
 
 🎉 Pronto! Você verá a página inicial do Autumn.
-
----

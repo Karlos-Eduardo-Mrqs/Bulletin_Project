@@ -1,8 +1,14 @@
 # Autumn 🍂
 
+## 🌐 Avaible Languages
+
+- **[🇺🇸 English Version _current_](https://github.com/Karlos-Eduardo-Mrqs/Bulletin_Project/blob/main/README.md)**
+- **[🇧🇷 Brasilian Version](https://github.com/Karlos-Eduardo-Mrqs/Bulletin_Project/blob/main/README-BR.md)**
+
 ## 📁 Table of Contents
 
 - [Autumn 🍂](#autumn-)
+  - [🌐 Avaible Languages](#-avaible-languages)
   - [📁 Table of Contents](#-table-of-contents)
   - [✨ About the Project](#-about-the-project)
   - [💡 Usage Example](#-usage-example)
@@ -96,8 +102,6 @@ Extract the contents into the `htdocs` folder of your XAMPP installation.
 ## 📈 License
 
 This project is licensed under the **MIT License**. See the `LICENSE` file for more details.
-
----
 
 ## 🎉 Done!
 
