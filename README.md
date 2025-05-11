@@ -8,7 +8,6 @@
 
 - **[🇪🇸 Spain Version](https://github.com/Karlos-Eduardo-Mrqs/Bulletin_Project/blob/main/README-ES.md)**
 
-
 ## 📁 Table of Contents
 
 - [Autumn 🍂](#autumn-)
@@ -25,7 +24,7 @@
     - [4⃣ Adjust the Settings](#4⃣-adjust-the-settings)
     - [5⃣ Run the Project](#5⃣-run-the-project)
   - [📈 License](#-license)
-  - [🎉 Done!](#-done)
+  - [🎉 Done !](#-done-)
 
 ---
 
@@ -107,6 +106,6 @@ Extract the contents into the `htdocs` folder of your XAMPP installation.
 
 This project is licensed under the **MIT License**. See the `LICENSE` file for more details.
 
-## 🎉 Done!
+## 🎉 Done !
 
-You will see the home page of Autumn.
+You will see the home page of Autumn .
