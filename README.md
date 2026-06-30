@@ -2,11 +2,11 @@
 
 ## 🌐 Avaible Languages
 
-- **[🇺🇸 English Version _current_](https://github.com/Karlos-Eduardo-Mrqs/Bulletin_Project/blob/main/README.md)**
+- **[🇺🇸 English Version _current_](README.md)**
 
-- **[🇧🇷 Brasilian Version](https://github.com/Karlos-Eduardo-Mrqs/Bulletin_Project/blob/main/README-BR.md)**
+- **[🇧🇷 Brasilian Version](README-BR.md)**
 
-- **[🇪🇸 Spain Version](https://github.com/Karlos-Eduardo-Mrqs/Bulletin_Project/blob/main/README-ES.md)**
+- **[🇪🇸 Spain Version](README-ES.md)**
 
 ## 📁 Table of Contents
 
